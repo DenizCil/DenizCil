@@ -1,16 +1,17 @@
-### Hi there 👋
+- 👋 Hi, I’m @DenizCil
+- 👀 I’m interested in Front End and Software.
+- 🌱 I’m currently learning JavaScript and React.
+- 💞️ I’m looking to collaborate on.
+- 📫 Contact me denizcil353@gmail.com.
 
-<!--
-**DenizCil/DenizCil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/DenizCil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=DenizCil&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizCil)](https://github.com/DenizCil)
