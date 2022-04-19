@@ -37,7 +37,9 @@
 
 |Coding|Gaming|Reading|Listening|
 |:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="<iframe src="https://giphy.com/embed/tqfS3mgQU28ko" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/headphones-spongebob-squarepants-tqfS3mgQU28ko">via GIPHY</a></p>">
+|<img style="width: 200px" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif">| <img style="width: 200px" src="https://media.giphy.com/media/YMc3ZQrVYqtTTdTi5e/giphy.gif">|<img style="width: 200px" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif">
+
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/DenizCil)
