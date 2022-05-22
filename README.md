@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenizCil
 - 👀 I’m interested in Front End and Software.
-- 🌱 I’m currently learning JavaScript,React and Java and Spring Freamwork.
+- 🌱 I’m currently learning JavaScript,React and Java and Spring Freamework.
 - 💞️ I’m looking to collaborate on.
 - 📫 Contact me denizcil353@gmail.com.
 
