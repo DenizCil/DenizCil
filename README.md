@@ -13,12 +13,11 @@
 <th align="center">Css</th>
 <th align="center">Js</th>
 <th align="center">React</th>
-<th align="center">Angular</th>
 <th align="center">Git</th>
 <th align="center">Github</th>
 <th align="center">VS Code</th>
-<th align="center">Java</th>
-<th align="center">Spring Boot</th>
+
+
   </tr>
 </thead>
 <tbody>
